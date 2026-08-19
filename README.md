@@ -8,5 +8,5 @@ A collection of Python projects I am building while learning Python.
 
 A simple command-line Snake Water Gun game where the player plays against the computer.
 
-[View Project](./Snake-Water-Gun)
+[View Project](./Snake-Water-Gun%20Game/)
 
