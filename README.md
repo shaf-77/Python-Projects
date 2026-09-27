@@ -10,3 +10,8 @@ A simple command-line Snake Water Gun game where the player plays against the co
 
 [View Project](./Snake-Water-Gun%20Game/)
 
+### 2. To-Do List
+
+A simple command-line application to manage tasks.
+
+[View Project](./To-Do-List/)
