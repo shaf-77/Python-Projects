@@ -15,3 +15,9 @@ A simple command-line Snake Water Gun game where the player plays against the co
 A simple command-line application to manage tasks.
 
 [View Project](./To-Do-List/)
+
+### 3. Quiz Game
+
+A command-line quiz game that tests basic computer knowledge of users.
+
+[View Project](./Quiz-Game/)
